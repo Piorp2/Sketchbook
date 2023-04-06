@@ -9,13 +9,9 @@
 [![badge](https://img.shields.io/travis/swift502/sketchbook?style=flat-square)](https://travis-ci.org/swift502/Sketchbook)
 [![badge](https://img.shields.io/discord/730763393325334628?label=discord&style=flat-square)](https://discord.gg/fGuEqCe)
 
-# Final update (20. Feb 2023)
+# Updates:
 
-Sketchbook is now archived. As I have no more interest in developing this project, it comes to a conclusion. In order to remain honest about the true state of the project, I am archiving this repository. I've put the project in the public domain, it now belongs to you. You can burn it on DVDs and sell it.
-
-- If you wish to modify Sketchbook feel free to fork it.
-- To see if someone is currently maintaining a fork, check out the [Network Graph](https://github.com/swift502/Sketchbook/network).
-- The [NPM package](https://www.npmjs.com/package/sketchbook) name is available, and I'll give it away to anyone who asks for it. The package has never worked properly.
+I will update this game, just give me time :)
 
 # 📒 Sketchbook
 
