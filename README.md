@@ -11,8 +11,8 @@
 
 # Updates:
 
-I will update this game, just give me time :)<br/>
-If you want to see what we are adding, just look at the Projects section
+April 7 2023:
+Added day/night cycle to the game. There is no nighttime in the cycle, but you can change the settings.
 
 # 📒 Sketchbook
 
