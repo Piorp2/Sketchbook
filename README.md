@@ -11,9 +11,16 @@
 
 # Updates:
 
-April 7 2023:
-Added day/night cycle to the game.
-
+<div>April 6 2023:<br/>
+	<b>- Added day/night cycle to the game.</b>
+	</div>
+	<div>
+April 7 2023:<br/>
+	<b>
+- Laps are tracked in races now.<br/>
+- Day/night cycles do not automaticly happen anymore.
+	</b>
+	</div>
 # 📒 Sketchbook
 
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
