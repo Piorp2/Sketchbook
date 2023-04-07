@@ -12,7 +12,7 @@
 # Updates:
 
 April 7 2023:
-Added day/night cycle to the game. There is no nighttime in the cycle, but you can change the settings.
+Added day/night cycle to the game. There is no nightime in the cycle, but you can change the settings.
 
 # 📒 Sketchbook
 
