@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://jblaha.art/sketchbook/latest"><img src="./src/img/thumbnail.png"></a>
+	<a href="https://sketchbook2.glitch.me"><img src="./thumbnail.png"></a>
 	<br>
-	<a href="https://jblaha.art/sketchbook/latest">Live demo</a>
+	<a href="https://sketchbook2.glitch.me">Live demo</a>
 	<br>
 </p>
 
