@@ -12,6 +12,7 @@
 # Updates:
 
 I will update this game, just give me time :)
+If you want to see what we are adding, just look at the Projects section
 
 # 📒 Sketchbook
 
