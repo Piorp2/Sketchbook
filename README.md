@@ -47,7 +47,7 @@ Mostly a playground for exploring how conventional third person gameplay mechani
 	* Airplanes
 	* Helicopters
 
-All planned features can be found in the [GitHub Projects](https://github.com/inthewnew/Sketchbook/projects).
+All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
 ## Recomendations
 - If you want me to add something to the game, create an issue.
 ## Credits
