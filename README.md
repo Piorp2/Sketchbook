@@ -18,7 +18,8 @@
 April 7 2023:<br/>
 	<b>
 - Laps are tracked in races now.<br/>
-- Day/night cycles do not automaticly happen anymore.
+- Day/night cycles do not automaticly happen anymore.<br/>
+- Settings save now.
 	</b>
 	</div>
 # 📒 Sketchbook
