@@ -23,12 +23,14 @@ April 7 2023:<br/>
 - Day/night cycles slow down when time slows down now.
 	</b>
 	</div>
-		
 May 12 2023:<br/>
 	<b>- You can now reset your settings to the defualt</b>
 	<br/>
 	<b>(Note):</b>
 	<b>I'm sorry for the recent lack of updates, I am planning to do more soon :)</b>
+	
+May 13 2023:<br/>
+	<b>- You can now change your vehicle settings</b>
 # 📒 Sketchbook
 
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
