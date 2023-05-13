@@ -23,37 +23,16 @@ April 7 2023:<br/>
 - Day/night cycles slow down when time slows down now.
 	</b>
 	</div>
+		
+May 12 2023:<br/>
+	<b>- You can now reset your settings to the defualt</b>
+	<br/>
+	<b>(Note):</b>
+	<b>I'm sorry for the recent lack of updates, I am planning to do more soon :)</b>
 # 📒 Sketchbook
 
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
 
 Mostly a playground for exploring how conventional third person gameplay mechanics found in modern games work and recreating them in a general way.
-
-## Features
-
-* World
-	* Three.js scene
-	* Cannon.js physics
-	* Variable timescale
-	* Frame skipping
-	* FXAA anti-aliasing
-* Characters
-	* Third-person camera
-	* Raycast character controller with capsule collisions
-	* General state system
-	* Character AI
-* Vehicles
-	* Cars
-	* Airplanes
-	* Helicopters
-
+## Plans
 All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
-## Recomendations
-- If you want me to add something to the game, create an issue.
-## Credits
-
-Big thank you to each of the following github users for contributing to Sketchbook:
-
-- [aleqsunder](https://github.com/aleqsunder)
-- [barhatsor](https://github.com/barhatsor)
-- [danshuri](https://github.com/danshuri)
