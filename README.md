@@ -26,8 +26,6 @@ April 7 2023:<br/>
 May 12 2023:<br/>
 	<b>- You can now reset your settings to the defualt</b>
 	<br/>
-	<b>(Note):</b>
-	<b>I'm sorry for the recent lack of updates, I am planning to do more soon :)</b>
 	
 May 13 2023:<br/>
 	<b>- You can now change your vehicle settings</b>
