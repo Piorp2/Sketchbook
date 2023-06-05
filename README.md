@@ -34,5 +34,9 @@ May 13 2023:<br/>
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
 
 Mostly a playground for exploring how conventional third person gameplay mechanics found in modern games work and recreating them in a general way.
+## Feature Ideas
+Look in the [discussions](https://github.com/Inthenew/Sketchbook/discussions) tab to add new feature ideas
+## Issues
+Any issues or bugs in the project can be reported in the [Issues](https://github.com/Inthenew/Sketchbook/issues) tab
 ## Plans
 All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
