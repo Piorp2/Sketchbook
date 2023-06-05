@@ -26,9 +26,13 @@ April 7 2023:<br/>
 May 12 2023:<br/>
 	<b>- You can now reset your settings to the defualt</b>
 	<br/>
-	
+	<div>
 May 13 2023:<br/>
 	<b>- You can now change your vehicle settings</b>
+	</div>
+June 5 2023:<br/>
+	<b>- You can now change your cars engine force in the vehicle settings</b>
+	<br/>
 # 📒 Sketchbook
 
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
