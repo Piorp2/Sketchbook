@@ -37,7 +37,7 @@ June 5 2023:<br/>
 	<br/>
 	</div>
 June 7 2023:<br/>
-	<b>- Boat's are now in the game! Find it on the dock near the loop ramp. This is just the first version. Scroll to the bottom of the page to see all plans for the boat</b>
+	<b>- Boat's are now in the game! Find it on the dock near the loop ramp. This is just the first version. Scroll to the bottom of the page to see all plans for the boat feature!</b>
 	<br/>
 	<br/>
 # 📒 Sketchbook
