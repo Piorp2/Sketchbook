@@ -31,8 +31,14 @@ May 12 2023:<br/>
 May 13 2023:<br/>
 	<b>- You can now change your vehicle settings</b>
 	</div>
+	<div>
 June 5 2023:<br/>
 	<b>- You can now change your cars engine force in the vehicle settings</b>
+	<br/>
+	</div>
+June 7 2023:<br/>
+	<b>- Boat's are now in the game! Find it on the dock near the loop ramp. This is just the first version. Scroll to the bottom of the page to see all plans for the boat</b>
+	<br/>
 	<br/>
 # 📒 Sketchbook
 
@@ -45,3 +51,11 @@ Look in the [discussions](https://github.com/Inthenew/Sketchbook/discussions) ta
 Any issues or bugs in the project can be reported in the [Issues](https://github.com/Inthenew/Sketchbook/issues) tab
 ## Plans
 All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
+## Boat Plans!
+Here is our plans for stuff to do with the boat:
+1. Something to show where the dock is
+2. A better boat model
+3. More releasic boat physics
+4. Racing with AI characters driving boats with lap tracking
+<br/>
+If you want anything else added, let me now in the <a href="https://github.com/Inthenew/Sketchbook/discussions">discussions</a> tab!
