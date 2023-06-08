@@ -52,6 +52,6 @@ All planned features can be found in the [GitHub Projects](https://github.com/In
 ## Boat Plans!
 Here is our plans for stuff to do with the boat feature:
 1. Add a better boat model
-2. Make racing with AI characters that are driving boats and have lap tracking
+2. Add racing with AI characters that are driving boats and have lap tracking
 <br/>
 If you want anything else added, let me now in the <a href="https://github.com/Inthenew/Sketchbook/discussions">discussions</a> tab!
