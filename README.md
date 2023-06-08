@@ -34,9 +34,14 @@ June 5 2023:<br/>
 	<b>- You can now change your cars engine force in the vehicle settings</b>
 	<br/>
 	</div>
+	<div>
 June 7 2023:<br/>
 	<b>- Boat's are now in the game! Find it on the dock near the loop ramp. This is just the first version. Scroll to the bottom of the page to see all plans for the boat feature!</b>
 	<br/>
+	</div>
+June 8 2023:
+	<br/>
+	<b>- We made a better boat model! It is now a jet ski!</b>
 	<br/>
 # 📒 Sketchbook
 
