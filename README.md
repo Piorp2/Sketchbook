@@ -51,9 +51,7 @@ Any issues or bugs in the project can be reported in the [Issues](https://github
 All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
 ## Boat Plans!
 Here is our plans for stuff to do with the boat:
-1. Something to show where the dock is
-2. A better boat model
-3. More releasic boat physics
-4. Racing with AI characters driving boats with lap tracking
+1. A better boat model
+2. Racing with AI characters driving boats with lap tracking
 <br/>
 If you want anything else added, let me now in the <a href="https://github.com/Inthenew/Sketchbook/discussions">discussions</a> tab!
