@@ -36,13 +36,20 @@ June 5 2023:<br/>
 	</div>
 	<div>
 June 7 2023:<br/>
-	<b>- Boat's are now in the game! Find it on the dock near the loop ramp. This is just the first version. Scroll to the bottom of the page to see all plans for the boat feature!</b>
+	<b>- Boat's are now in the game! Find it on the dock near the loop ramp.</b>
 	<br/>
 	</div>
+ <div>
 June 8 2023:
 	<br/>
 	<b>- We made a better boat model! It is now a jet ski!</b>
 	<br/>
+ </div>
+July 4 2023:
+<br/>
+<b>- We added a boat race so you can race with AI's driving boats!</b>
+<br/>
+<br/>
 # 📒 Sketchbook
 
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
@@ -54,8 +61,3 @@ Look in the [discussions](https://github.com/Inthenew/Sketchbook/discussions) ta
 Any issues or bugs in the project can be reported in the [Issues](https://github.com/Inthenew/Sketchbook/issues) tab
 ## Plans
 All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
-## Boat Plans!
-Here is our plans for stuff to do with the boat feature:
-1. Add racing with AI characters that are driving boats and have lap tracking
-<br/>
-If you want anything else added, let me now in the <a href="https://github.com/Inthenew/Sketchbook/discussions">discussions</a> tab!
