@@ -51,7 +51,9 @@ July 4 2023:
 <br/>
 September 30 2023:
 <br/>
-<b>CURRENTLY PUSHING AN UPDATE, IF ANYTHING ACTS UNEXPECTEDLY, THIS IS WHY</b>
+<b>- I added the ability to scale gravity in settings.<br/>
+- I fixed an issue that occurred in in the oval race scenario.
+</b>
 <br/>
 <br/>
 # 📒 Sketchbook
