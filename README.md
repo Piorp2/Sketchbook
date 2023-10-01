@@ -49,6 +49,10 @@ July 4 2023:
 <br/>
 <b>- We added a boat race so you can race with AI's driving boats!</b>
 <br/>
+September 30 2023:
+<br/>
+<b>CURRENTLY PUSHING AN UPDATE, IF ANYTHING ACTS UNEXPECTEDLY, THIS IS WHY</b>
+<br/>
 <br/>
 # 📒 Sketchbook
 
