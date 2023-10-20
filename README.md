@@ -67,3 +67,15 @@ Look in the [discussions](https://github.com/Inthenew/Sketchbook/discussions) ta
 Any issues or bugs in the project can be reported in the [Issues](https://github.com/Inthenew/Sketchbook/issues) tab
 ## Plans
 All planned features can be found in the [GitHub Projects](https://github.com/Inthenew/Sketchbook/projects?query=is%3Aopen).
+## Credits
+Big thank you to each of the following github users for contributing to Sketchbook:
+- [aleqsunder](https://github.com/aleqsunder)
+- [barhatsor](https://github.com/barhatsor)
+- [danshuri](https://github.com/danshuri)
+## Credits
+Big thank you to each of the following GitHub users for contributing to Sketchbook:
+- [aleqsunder](https://github.com/aleqsunder)
+- [barhatsor](https://github.com/barhatsor)
+- [danshuri](https://github.com/danshuri)
+
+Also, a special thanks to [swift502](https://github.com/swift502), who has basically made the entire thing.
