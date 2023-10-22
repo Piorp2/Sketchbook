@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://sketchbook2.glitch.me"><img src="./thumbnail.png"></a>
+	<a href="https://sketchbook23.glitch.me"><img src="./thumbnail.png"></a>
 	<br>
-	<a href="https://sketchbook2.glitch.me">Live demo</a>
+	<a href="https://sketchbook23.glitch.me">Live demo</a>
 	<br>
 </p>
 
@@ -54,6 +54,11 @@ September 30 2023:
 <b>- I added the ability to scale gravity in settings.<br/>
 - I fixed an issue that occurred in in the oval race scenario.
 </b>
+<br/>
+October 22 2023 (Alpha):
+<br/>
+<b>- I added a rocket island with a launch pad<br/>
+- I added a not nearly done rocketship</b>
 <br/>
 <br/>
 # 📒 Sketchbook
