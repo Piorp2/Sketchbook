@@ -58,7 +58,10 @@ September 30 2023:
 October 22 2023 (Alpha):
 <br/>
 <b>- I added a rocket island with a launch pad<br/>
-- I added a not nearly done rocketship</b>
+- I added a not nearly done rocketship<br/>
+- I made the rocketship be able to go to the moon (The moon's surface is just a box for now)<br/>
+- I made the earth and moon look like the earth and moon from the outside
+</b>
 <br/>
 <br/>
 
