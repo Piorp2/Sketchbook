@@ -63,6 +63,9 @@ October 22 2023 (Alpha):
 - I made the earth and moon look like the earth and moon from the outside
 </b>
 <br/>
+December 3 2023 (Alpha):
+<br/>
+<b>- I made the rocketships flight to the moon look better</b>
 <br/>
 
 ## 📒 Sketchbook
