@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://sketchbook2.glitch.me"><img src="./thumbnail.png"></a>
+	<a href="https://sketchbook23.glitch.me"><img src="./thumbnail.png"></a>
 	<br>
-	<a href="https://sketchbook2.glitch.me">Live demo</a>
+	<a href="https://sketchbook23.glitch.me">Live demo</a>
 	<br>
 </p>
 
@@ -55,7 +55,7 @@ September 30 2023:
 - I fixed an issue that occurred in in the oval race scenario.
 </b>
 <br/>
-October 22 2023 (Alpha):
+October 22 2023:
 <br/>
 <b>- I added a rocket island with a launch pad<br/>
 - I added a not nearly done rocketship<br/>
@@ -63,9 +63,19 @@ October 22 2023 (Alpha):
 - I made the earth and moon look like the earth and moon from the outside
 </b>
 <br/>
-December 3 2023 (Alpha):
+December 3 2023:
 <br/>
 <b>- I made the rocketships flight to the moon look better</b>
+<br/>
+December 7 2023:
+<br/>
+<b>- I made it so you could adjust your freecam speed</b>
+<br/>
+<b>- I made rocketships position based instead of time based</b>
+<br/>
+<b>- I made the first person camera relative to the vehicles orientation</b>
+<br/>
+<b>- I made boats accelerate instead of instantly being max speed</b>
 <br/>
 
 ## 📒 Sketchbook
