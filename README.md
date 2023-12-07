@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://sketchbook23.glitch.me"><img src="./thumbnail.png"></a>
+	<a href="https://sketchbook2.glitch.me"><img src="./thumbnail.png"></a>
 	<br>
-	<a href="https://sketchbook23.glitch.me">Live demo</a>
+	<a href="https://sketchbook2.glitch.me">Live demo</a>
 	<br>
 </p>
 
