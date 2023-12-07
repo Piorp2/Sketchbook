@@ -19,8 +19,8 @@ export let SkyShader = {
 
     uniforms: {
       luminance: {value: 1},
-      turbidity: {value: 2},
-      rayleigh: {value: 1},
+      turbidity: {value: 0},
+      rayleigh: {value: .5},
       mieCoefficient: {value: 0.005},
       mieDirectionalG: {value: 0.8},
       sunPosition: {value: new THREE.Vector3()},
@@ -99,7 +99,7 @@ export let SkyShader = {
   
       }
     `,
-  
+  //3.1415926535897932384626433832795028841971693993751
     fragmentShader: 
     `
       varying vec3 vWorldPosition;
@@ -114,7 +114,7 @@ export let SkyShader = {
       uniform vec3 cameraPos;
   
       // constants for atmospheric scattering
-      const float pi = 3.141592653589793238462643383279502884197169;
+      const float pi = 3.1415926535897932384626433832795028841971693993751;
   
       const float n = 1.0003; // refractive index of air
       const float N = 2.545E25; // number of molecules per unit volume for air at

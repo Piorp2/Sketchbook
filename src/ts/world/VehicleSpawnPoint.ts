@@ -11,6 +11,7 @@ import { Character } from '../characters/Character';
 import { FollowPath } from '../characters/character_ai/FollowPath';
 import { LoadingManager } from '../core/LoadingManager';
 import { IWorldEntity } from '../interfaces/IWorldEntity';
+import { RocketShip } from '../vehicles/RocketShip';
 
 export class VehicleSpawnPoint implements ISpawnPoint
 {
@@ -95,6 +96,7 @@ export class VehicleSpawnPoint implements ISpawnPoint
 			case 'heli': return new Helicopter(model);
 			case 'airplane': return new Airplane(model);
             case 'boat': return new Boat(model);
+            case 'rocketship': return new RocketShip(model);
 		}
 	}
 }

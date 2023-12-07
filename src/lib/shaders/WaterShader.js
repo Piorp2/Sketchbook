@@ -21,7 +21,7 @@ export let WaterShader = {
             type: 'v2',
             value: new THREE.Vector2()
         },
-        cameraPos: { value: new THREE.Vector3() },
+        cameraPos: { value: new THREE.Vector3(0, 0, 0) },
         lightDir: { value: new THREE.Vector3() }
     },
 
@@ -270,10 +270,14 @@ export let WaterShader = {
       // post
       gl_FragColor = vec4(pow(color,vec3(0.8)), 1.0) * 1.2;
 
-      float fogfac = clamp(length(dist), 300.0, 600.0);
-      fogfac -= 300.0;
-      fogfac /= 300.0;
-      gl_FragColor.a = 1.0 - fogfac;
+      // The following lines calculating and applying the fog have been removed
+      // float fogfac = clamp(length(dist), 300.0, 600.0);
+      // fogfac -= 300.0;
+      // fogfac /= 300.0;
+      // gl_FragColor.a = 1.0 - fogfac;
+
+      // Ensure the alpha is set to 1.0, meaning the fragment is fully opaque
+      gl_FragColor.a = 1.0;
 
       #if defined( TONE_MAPPING )
         gl_FragColor.rgb = toneMapping( gl_FragColor.rgb );

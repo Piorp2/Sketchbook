@@ -1,38 +1,35 @@
 import
 {
 	CharacterStateBase,
-	EndWalk,
-	JumpRunning,
-	Walk,
 } from './_stateLibrary';
+import { ICharacterState } from '../../interfaces/ICharacterState';
 import { Character } from '../Character';
 
-export class SwimIdle extends CharacterStateBase
+export class SwimIdle extends CharacterStateBase implements ICharacterState
 {
 	constructor(character: Character)
 	{
 		super(character);
 
-		this.canEnterVehicles = true;
+		this.character.velocitySimulator.mass = 100;
+		this.character.rotationSimulator.damping = 0.3;
 
-		this.character.velocitySimulator.mass = 10;
-		this.character.rotationSimulator.damping = 0.8;
-		this.character.rotationSimulator.mass = 50;
+		this.character.arcadeVelocityIsAdditive = true;
+		this.character.setArcadeVelocityInfluence(0.05, 0, 0.05);
 
-		this.character.setArcadeVelocityTarget(1.4);
-		this.playAnimation('ArmatureAction', 0.1);
+		this.playAnimation('Action', 0.3);
 	}
 
 	public update(timeStep: number): void
 	{
 		super.update(timeStep);
+
 		this.character.setCameraRelativeOrientationTarget();
-		//this.fallInAir();
+		this.character.setArcadeVelocityTarget(this.anyDirection() ? 0.8 : 0);
+
+		if (this.character.rayHasHit)
+		{
+			this.setAppropriateDropState();
+		}
 	}
-/*
-	public onInputChange(): void
-	{
-		super.onInputChange();
-	}
-    */
 }

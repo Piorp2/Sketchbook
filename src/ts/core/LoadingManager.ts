@@ -13,12 +13,12 @@ export class LoadingManager
 	private world: World;
 	private gltfLoader: GLTFLoader;
 	private loadingTracker: LoadingTrackerEntry[] = [];
-
+	public dracoLoader: any;
 	constructor(world: World)
 	{
 		this.world = world;
 		this.gltfLoader = new GLTFLoader();
-
+		this.gltfLoader.setDRACOLoader(this.dracoLoader);
 		this.world.setTimeScale(0);
 		UIManager.setUserInterfaceVisible(false);
 		UIManager.setLoadingScreenVisible(true);

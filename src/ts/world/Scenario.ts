@@ -59,7 +59,7 @@ export class Scenario {
         root.traverse((child) => {
             if (child.hasOwnProperty('userData') && child.userData.hasOwnProperty('data')) {
                 if (child.userData.data === 'spawn') {
-                    if (child.userData.type === 'car' || child.userData.type === 'airplane' || child.userData.type === 'heli' || child.userData.type === 'boat') {
+                    if (child.userData.type === 'car' || child.userData.type === 'airplane' || child.userData.type === 'heli' || child.userData.type === 'boat' || child.userData.type === 'rocketship') {
                         let sp = new VehicleSpawnPoint(child);
 
                         if (child.userData.hasOwnProperty('type')) {

@@ -1,7 +1,7 @@
 <p align="center">
-	<a href="https://sketchbook2.glitch.me"><img src="./thumbnail.png"></a>
+	<a href="https://sketchbook23.glitch.me"><img src="./thumbnail.png"></a>
 	<br>
-	<a href="https://sketchbook2.glitch.me">Live demo</a>
+	<a href="https://sketchbook23.glitch.me">Live demo</a>
 	<br>
 </p>
 
@@ -55,9 +55,20 @@ September 30 2023:
 - I fixed an issue that occurred in in the oval race scenario.
 </b>
 <br/>
+October 22 2023 (Alpha):
 <br/>
-# 📒 Sketchbook
+<b>- I added a rocket island with a launch pad<br/>
+- I added a not nearly done rocketship<br/>
+- I made the rocketship be able to go to the moon (The moon's surface is just a box for now)<br/>
+- I made the earth and moon look like the earth and moon from the outside
+</b>
+<br/>
+December 3 2023 (Alpha):
+<br/>
+<b>- I made the rocketships flight to the moon look better</b>
+<br/>
 
+## 📒 Sketchbook
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
 
 Mostly a playground for exploring how conventional third person gameplay mechanics found in modern games work and recreating them in a general way.

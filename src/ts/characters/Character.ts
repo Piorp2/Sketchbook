@@ -747,6 +747,7 @@ export class Character extends THREE.Object3D implements IWorldEntity
 	{
 		if (this.controlledObject?.controllingCharacter === this)
 		{
+			globalThis.currentTing = null;
 			this.controlledObject.allowSleep(true);
 			this.controlledObject.controllingCharacter = undefined;
 			this.controlledObject.resetControls();
@@ -757,6 +758,7 @@ export class Character extends THREE.Object3D implements IWorldEntity
 
 	public exitVehicle(): void
 	{
+		globalThis.currentTing = null;
 		if (this.occupyingSeat !== null)
 		{
 			if (this.occupyingSeat.vehicle.entityType === EntityType.Airplane)
