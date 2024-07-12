@@ -77,6 +77,13 @@ December 7 2023:
 <br/>
 <b>- I made boats accelerate instead of instantly being max speed</b>
 <br/>
+July 11 2024:
+<br/>
+<b>- Fixed glitching when riding in first person</b>
+<br/>
+<b>- Simplified the ocean to make the game less laggy</b>
+<br/>
+<b>- Added a new boat model with a smaller file size</b>
 
 ## 📒 Sketchbook
 Simple web based game engine built on [three.js](https://github.com/mrdoob/three.js) and [cannon.js](https://github.com/schteppe/cannon.js) focused on third-person character controls and related gameplay mechanics.
