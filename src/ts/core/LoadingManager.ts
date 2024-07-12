@@ -1,5 +1,4 @@
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
-import { DRACOLoader } from 'three/examples/jsm/loaders/DRACOLoader';
 import { LoadingTrackerEntry } from './LoadingTrackerEntry';
 import { UIManager } from './UIManager';
 import { Scenario } from '../world/Scenario';
@@ -19,9 +18,9 @@ export class LoadingManager
 	{
 		this.world = world;
 		this.gltfLoader = new GLTFLoader();
-        this.dracoLoader = new DRACOLoader();
-		this.dracoLoader.setDecoderPath('https://raw.githubusercontent.com/mrdoob/three.js/r113/examples/js/libs/draco/');
-		this.gltfLoader.setDRACOLoader(this.dracoLoader);
+        //this.dracoLoader = new DRACOLoader();
+		//this.dracoLoader.setDecoderPath('https://raw.githubusercontent.com/mrdoob/three.js/r113/examples/js/libs/draco/');
+		//this.gltfLoader.setDRACOLoader(this.dracoLoader);
 		this.world.setTimeScale(0);
 		UIManager.setUserInterfaceVisible(false);
 		UIManager.setLoadingScreenVisible(true);
